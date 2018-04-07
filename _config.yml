@@ -57,13 +57,13 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are Mainers, resisting
+subtitle: We are Mainers, and resisting
 email: invisibleadmin@mike-wolf.com
 baseurl: 
 url: 
 twitter_username: 
 facebook_username: 
-background-image: "/uploads/31773994174_c2e5706218_k.jpg"
+background-image: "/uploads/logo.png.png"
 member-count: many
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
@@ -77,3 +77,4 @@ exclude:
 - Gemfile
 - Gemfile.lock
 google_analytics: 
+description: this is the description
