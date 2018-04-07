@@ -2,7 +2,7 @@
 title: Become A Member
 date: 2017-02-16 22:58:00 -05:00
 position: 5
-mailchimp-form-embed: <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/376fcedeb8849be00461d3045/2d1d0970c2c5a72b1d333c708.js");</script>
+mailchimp-form-embed: 
 layout: becomeAMember
 ---
 
