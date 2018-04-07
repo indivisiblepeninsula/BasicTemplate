@@ -64,7 +64,7 @@ url:
 twitter_username: 
 facebook_username: 
 background-image: "/uploads/logo.png.png"
-member-count: many
+member-count: 10
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
 gems:
