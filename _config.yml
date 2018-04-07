@@ -57,7 +57,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are Mainers, and we are resisting!
+subtitle: We are Mainers, and we are resisting
 email: invisibleadmin@mike-wolf.com
 baseurl: 
 url: 
